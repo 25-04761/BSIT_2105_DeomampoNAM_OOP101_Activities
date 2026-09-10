@@ -4,7 +4,7 @@ public class Canteen {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
 
-            String[] itemNames = {"Burger", "Pizza", "Pasta", "Sandwich", "Milk Tea"};
+            String[] itemNames = {"Omurice", "Pizza", "Pasta", "Sandwich", "Milk Tea"};
             double[] itemPrices = {80.00, 120.00, 100.00, 70.00, 90.00};
 
             int totalQuantity = 0;
